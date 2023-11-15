@@ -1,6 +1,6 @@
 body, div, p, img, span {
 position: absolute;
- margin: 0; padding: 0;
+
 }
 
 .head {
@@ -887,16 +887,281 @@ color: #707070;
 opacity: 1;
 }
 
+.s6 {
+/* Layout Properties */
+top: 3530px;
+left: 0px;
+width: 1920px;
+height: 922px;
+/* UI Properties */
+background: var(--unnamed-color-fbf2f2) 0% 0% no-repeat padding-box;
+background: #FBF2F2 0% 0% no-repeat padding-box;
+opacity: 1;
+}
 
 
+.s6-1 {
+/* Layout Properties */
+top: 3610px;
+left: 752px;
+width: 416px;
+height: 72px;
+/* UI Properties */
+font: var(--unnamed-font-style-normal) normal bold 48px/72px var(--unnamed-font-family-source-han-sans-tw);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-650300);
+text-align: center;
+font: normal normal bold 48px/72px Source Han Sans TW;
+letter-spacing: 0px;
+color: #650300;
+text-transform: uppercase;
+opacity: 1;
+}
 
+.s6-2 {
+/* Layout Properties */
+top: 3730px;
+left: 642px;
+width: 636px;
+height: 60px;
+/* UI Properties */
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 20px/30px var(--unnamed-font-family-source-han-sans-tw);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-000000);
+text-align: left;
+font: normal normal normal 20px/30px Source Han Sans TW;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
 
+.d1 {
+/* Layout Properties */
+top: 3814px;
+left: 642px;
+width: 636px;
+height: 68px;
+/* UI Properties */
+opacity: 1;
+}
 
+.i1 {
+/* Layout Properties */
+top: 3814px;
+left: 642px;
+width: 32px;
+height: 24px;
+/* UI Properties */
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-000000);
+text-align: left;
+font: normal normal normal 16px/24px Source Han Sans TW;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
 
+.input1 {
+/* Layout Properties */
+top: 3846px;
+left: 642px;
+width: 636px;
+height: 36px;
+/* UI Properties */
+border: 1px solid var(--unnamed-color-000000);
+border: 1px solid #000000;
+opacity: 1;
+}
 
+.d2 {
+/* Layout Properties */
+top: 3898px;
+left: 642px;
+width: 636px;
+height: 65px;
+/* UI Properties */
+opacity: 1;
+}
 
+.i2 {
+/* Layout Properties */
+top: 3898px;
+left: 642px;
+width: 64px;
+height: 24px;
+/* UI Properties */
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-000000);
+text-align: left;
+font: normal normal normal 16px/24px Source Han Sans TW;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
 
+.input2 {
+/* Layout Properties */
+top: 3930px;
+left: 642px;
+width: 636px;
+height: 33px;
+/* UI Properties */
+border: 1px solid var(--unnamed-color-000000);
+border: 1px solid #000000;
+opacity: 1;
+}
 
+.d3 {
+/* Layout Properties */
+top: 3979px;
+left: 642px;
+width: 636px;
+height: 65px;
+/* UI Properties */
+opacity: 1;
+}
+
+.i3 {
+/* Layout Properties */
+top: 3979px;
+left: 642px;
+width: 64px;
+height: 24px;
+/* UI Properties */
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-000000);
+text-align: left;
+font: normal normal normal 16px/24px Source Han Sans TW;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
+
+.input3 {
+/* Layout Properties */
+top: 4011px;
+left: 642px;
+width: 636px;
+height: 33px;
+/* UI Properties */
+border: 1px solid var(--unnamed-color-000000);
+border: 1px solid #000000;
+opacity: 1;
+}
+
+.d4 {
+/* Layout Properties */
+top: 4060px;
+left: 642px;
+width: 636px;
+height: 168px;
+/* UI Properties */
+opacity: 1;
+}
+
+.i4 {
+/* Layout Properties */
+top: 4060px;
+left: 642px;
+width: 64px;
+height: 24px;
+/* UI Properties */
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-000000);
+text-align: left;
+font: normal normal normal 16px/24px Source Han Sans TW;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
+
+.input4 {
+/* Layout Properties */
+top: 4092px;
+left: 642px;
+width: 636px;
+height: 136px;
+/* UI Properties */
+border: 1px solid var(--unnamed-color-000000);
+border: 1px solid #000000;
+opacity: 1;
+}
+
+.d5 {
+/* Layout Properties */
+top: 4244px;
+left: 642px;
+width: 636px;
+height: 24px;
+/* UI Properties */
+opacity: 1;
+}
+
+.i5 {
+/* Layout Properties */
+top: 4244px;
+left: 642px;
+width: 24px;
+height: 24px;
+/* UI Properties */
+background: transparent url('img/ic_check_box_outline_blank_24px.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.input5 {
+/* Layout Properties */
+top: 4244px;
+left: 670px;
+width: 608px;
+height: 24px;
+/* UI Properties */
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-000000);
+text-align: left;
+font: normal normal normal 16px/24px Source Han Sans TW;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.submit {
+/* Layout Properties */
+top: 4316px;
+left: 752px;
+width: 416px;
+height: 56px;
+/* UI Properties */
+background: var(--unnamed-color-aa0601) 0% 0% no-repeat padding-box;
+background: #AA0601 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.sub {
+/* Layout Properties */
+top: 4332px;
+left: 928px;
+width: 64px;
+height: 24px;
+/* UI Properties */
+font: var(--unnamed-font-style-normal) normal bold 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-ffffff);
+text-align: center;
+font: normal normal bold 16px/24px Source Han Sans TW;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
 
 
 
